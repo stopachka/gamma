@@ -1,0 +1,7 @@
+trading_dates.csv
+option_prices.csv
+spx_prices.csv
+tobins_q.csv
+__pycache__/
+.vscode
+.ipynb_checkpoints
