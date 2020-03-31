@@ -1,10 +1,17 @@
 ### Todos
 
+### General Todos 
+
 - [ ] Update notebook, to use get_option_price
   - [ ] This way when we can redefine it to adjust
+- [ ] Update notebook, to not sell and buy the same options
 - [ ] Update notebook, to take advantage of Q Ratio
 - [ ] Update notebook, to try a strategy like
   - 60/40 cash when Q ratio >1.25, all SPY < 1.25
+- [ ] Try with American Options
+- [ ] Try using greeks 
+- [ ] Make conclusions
+- [ ] Write it up nice. bambam
 
 ### Essay outline
 
@@ -15,7 +22,7 @@
   - This essay will go over the journey, the lessons learned, and some engineering reflections on python and pandas
 - Spitznagel's Tail Risk Hedging Explained
   - If you reduce you downside risk, you have a huge advantage during downturns -- you can buy capital cheaply, and your compounding is dope
-    - Some illustrattion
+    - Some illustration
 - How it's done, what is an option?
   - Explain options
 - Giving this a try
