@@ -2,6 +2,9 @@
 
 ### General Todos 
 
+- [ ] Consider: perhaps refactor so that option_order & spx_order are guaranteed?
+  - [ ] then write things like sell_spx_order(order, quantity)
+    - (returns a new spx order and cash remaining)
 - [ ] Update notebook, to use get_option_price
   - [ ] This way when we can redefine it to adjust
 - [ ] Update notebook, to not sell and buy the same options
