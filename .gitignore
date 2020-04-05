@@ -4,6 +4,7 @@ spx_option_prices.csv
 spy_etf_prices.csv
 spy_option_prices.csv
 tobins_q.csv
+gamma_data.zip
 __pycache__/
 .vscode
 .ipynb_checkpoints
