@@ -2,19 +2,9 @@
 
 ### General Todos 
 
-- [ ] Consider: perhaps refactor so that option_order & spx_order are guaranteed?
-  - [ ] then write things like sell_spx_order(order, quantity)
-    - (returns a new spx order and cash remaining)
-- [ ] Update notebook, to use get_option_price
-  - [ ] This way when we can redefine it to adjust
-- [ ] Update notebook, to not sell and buy the same options
-- [ ] Update notebook, to take advantage of Q Ratio
-- [ ] Update notebook, to try a strategy like
-  - 60/40 cash when Q ratio >1.25, all SPY < 1.25
-- [ ] Try with American Options
-- [ ] Try using greeks 
-- [ ] Make conclusions
-- [ ] Write it up nice. bambam
+- rewrite get_prices to work with different paths
+- rewrite how we do the allocation to handle make the q ratio easier to do
+- rewrite how we get months
 
 ### Essay outline
 
