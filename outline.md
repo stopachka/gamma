@@ -1,10 +1,8 @@
 ### Todos
 
-### General Todos 
+### General Todos
 
-- rewrite get_prices to work with different paths
-- rewrite how we do the allocation to handle make the q ratio easier to do
-- rewrite how we get months
+- Do a macro analysis on the options data -- are the asymptotic jumps even there?
 
 ### Essay outline
 
