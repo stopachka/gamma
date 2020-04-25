@@ -1,6 +1,6 @@
 trading_dates.csv
-spx_index_prices.csv
-spx_option_prices.csv
+spx_index_prices.*
+spx_option_prices.*
 spy_etf_prices.csv
 spy_option_prices.csv
 tobins_q.csv
